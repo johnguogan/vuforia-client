@@ -6,7 +6,7 @@ A simple Vuforia client to make basic operations on Vuforia Target database.
 
 ## Support
 
-Tested with PHP 5.6, 5.3 and PHP 5.2 (see [wiki](https://github.com/FionNoir/VuforiaClient/wiki))
+Tested with PHP 7.4.3
 
 ## Usage
 
@@ -14,6 +14,6 @@ See the instructions in the [wiki](https://github.com/FionNoir/VuforiaClient/wik
 
 ## Copyright & Licence
 
-Copyright 2017 Patrick Münster / ([DaDracoDesign](http://www.dadracodesign.de)).
+Copyright 2022 Guogan John.
 
 The code of the VuforiaClient is available under the [Apache 2.0 License](https://github.com/FionNoir/VuforiaClient/blob/master/License.txt).
